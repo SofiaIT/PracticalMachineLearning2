@@ -1,10 +1,10 @@
-#---------------------------------------------------#
+#----------------------------#
 # PRACTICAL MACHINE LEARNING #
-#---------------------------------------------------#
+#----------------------------#
 
-#-------------------------------------------------#
+#---------------------------#
 #  PROJECT FOR ASSIGNMENT 1 #
-#------------------------------------------------#
+#---------------------------#
 
 setwd("C:/Users/Sofia Cividini/Documents/COURSERA COURSES/Data Science Specialization_JHU/Practical Machine Learning/
 Assignment1_Write up")
