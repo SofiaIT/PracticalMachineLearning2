@@ -84,7 +84,7 @@ plot
 
 #### Model with an Algorithm based on Random Forests .
 
-* I subdivided the data set called pml.training3 in a training data set (60% of observations) and in a test dataset (40% of observations). I did so in order to reduce the time of calculation because it would not be problems of overfitting with the random forests. 
+* I subdivided the data set called pml.training3 in a training data set (60% of observations) and in a test dataset (40% of observations). 
 
 
 ```r
