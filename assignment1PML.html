@@ -96,7 +96,7 @@ plot </code></pre>
 <div id="model-with-an-algorithm-based-on-random-forests-." class="section level4">
 <h4>Model with an Algorithm based on Random Forests .</h4>
 <ul>
-<li>I subdivided the data set called pml.training3 in a training data set (60% of observations) and in a test dataset (40% of observations). I did so in order to reduce the time of calculation because it would not be problems of overfitting with the random forests.</li>
+<li>I subdivided the data set called pml.training3 in a training data set (60% of observations) and in a test dataset (40% of observations). </li>
 </ul>
 <pre class="r"><code>inTrain &lt;- createDataPartition(y=pml.training3$classe, p=0.6, list=FALSE)
 training &lt;- pml.training3
